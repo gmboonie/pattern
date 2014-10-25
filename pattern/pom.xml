@@ -4,4 +4,10 @@
   <artifactId>pattern</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <packaging>pom</packaging>
+  <modules>
+  	<module>creator</module>
+  	<module>behavitor</module>
+  	<module>pools</module>
+  	<module>stucture</module>
+  </modules>
 </project>
