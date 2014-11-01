@@ -3,7 +3,7 @@ package com.github.gmboonie.creator.prototype;
 
 /** 
  * @ClassName: CloneDeepStudent 
- * @Description: TODO(这里用一句话描述这个类的作用) 
+ * @Description : 
  * @author boonie  gmboonie@gmail.com 
  * @date 2014年10月26日 下午4:41:11 
  *  

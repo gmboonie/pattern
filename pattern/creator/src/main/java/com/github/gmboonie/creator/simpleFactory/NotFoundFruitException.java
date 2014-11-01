@@ -10,6 +10,8 @@ package com.github.gmboonie.creator.simpleFactory;
  */
 public class NotFoundFruitException extends Exception {
 	
+	private static final long serialVersionUID = 1L;
+
 	/** 
 	 * <p>Title: </p> 
 	 * <p>Description: </p>  
